@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tracks</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saber</title>
+      <link>/post/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/post/work2/</guid>
+      <description>&lt;p&gt;亚瑟王（King Arthur）
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Archer</title>
+      <link>/post/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/post/work3/</guid>
+      <description>&lt;p&gt;吉尔伽美什（Gilgamesh）
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>《Fate/zero》全从者简介</title>
+      <link>/post/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/post/work4/</guid>
+      <description>&lt;p&gt;Saber &lt;br&gt;Lancer &lt;br&gt;Archer &lt;br&gt;Rider &lt;br&gt;Caster &lt;br&gt;Assassin &lt;br&gt;Berserker
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RIDER</title>
+      <link>/post/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/post/work5/</guid>
+      <description>&lt;p&gt;伊斯坎达尔(Alexander the Great)
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LANCER</title>
+      <link>/post/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>/post/work7/</guid>
+      <description>&lt;p&gt;迪卢木多·奥迪那（Diamaid O Duibhne）
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CASTER</title>
+      <link>/post/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/post/work8/</guid>
+      <description>&lt;p&gt;吉尔斯·德·莱斯（Gilles de Rais）
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

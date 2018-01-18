@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rider on Tracks</title>
+    <link>/categories/rider/</link>
+    <description>Recent content in Rider on Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/rider/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RIDER</title>
+      <link>/post/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/post/work5/</guid>
+      <description>&lt;p&gt;伊斯坎达尔(Alexander the Great)
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
